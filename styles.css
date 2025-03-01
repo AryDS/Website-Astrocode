@@ -15,13 +15,20 @@ footer {
     position: relative;
 }
 
-
 .navbar ul{
     list-style-type: none;
     background-color: rgb(134, 88, 28);
     padding: 0px;
     margin: 0px;
     overflow:hidden;
+}
+
+.navbar a{
+    color:burlywood;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
 }
 
 .navbar a:hover {
@@ -55,34 +62,5 @@ color: burlywood;
 h2 {
     background-color: rgb(134, 88, 28);
     color:burlywood;
-body {
-    color:black;
-    background-color: blanchedalmond;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-    font-size: xx-large;
-}
-
-footer {
-    color:burlywood;
-    background-color:rgb(134, 88, 28);
-    text-align: center;
-    padding: 10px;
-    margin-top: 80px;
-    position: relative;
-}
 
 
-.navbar ul{
-    list-style-type: none;
-    background-color: rgb(134, 88, 28);
-    padding: 0px;
-    margin: 0px;
-    overflow:hidden;
-}
-
-.navbar a{
-    color:burlywood;
-    text-decoration: none;
-    margin: top 30px;
-}
